@@ -32,3 +32,7 @@ Automatidata is in the earliest stages of the TLC project. The following tasks a
 ### First Assignment
 Automatidata will need a project proposal that will create milestones for the tasks within the TLC project. Utilize the PACE strategy learned to help with project planning and development.
 * Complete PACE strategy document and output the project proposal
+
+### Second Assignment
+After outlining the project proposal, the next step is to clean and investigate the data.
+* Use the PACE strategy to outline tasks needed to clean and investigate the data
